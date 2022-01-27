@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ninniachwen
 - 👀 I’m interested in Python, Android, BigData, anything outdoors
 - 🌱 I’m currently learning AWS, Python magic & PySpark
+- 🌱 I’m currently learning AWS Neptune, TypeScript & Gremlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
